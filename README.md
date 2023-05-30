@@ -1,6 +1,9 @@
 # FREECODECAMP Data Analysis with Python: Zero to Pandas by Jovian Assignments
+
 https://jovian.com/learn/data-analysis-with-python-zero-to-pandas
+
 https://youtu.be/GPVsHOlRBBI
+
 Hey Everyone , hope you're doing good .
 - **Freecodecamp** has an excellent tutorial in getting started with data analysis using Python , Numpy and Pandas , named **Data Analysis with Python: Zero to Pandas**
 - In order to get certificate , you need to complete some assignments + projects, I'll be uploading my assignments + projects in this repositeryso anyone can refer them in case of confusion .
